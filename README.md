@@ -1,6 +1,6 @@
 # Hi, I'm Varsha 👋
 
-GenAI Engineer building multi-agent and RAG systems. MS in Computer Science at UMass Amherst (May 2026). Previously interned at Microsoft and IBM.
+AI Engineer building multi-agent systems. MS in Computer Science at UMass Amherst (May 2026). Previously worked at Microsoft and IBM.
 
 ## What I'm working on
 
