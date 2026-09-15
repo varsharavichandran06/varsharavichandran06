@@ -7,6 +7,7 @@ GenAI Engineer building multi-agent and RAG systems. MS in Computer Science at U
 - 🤖 **AgentOS** — an ambient multi-agent system that protects your health and time during a job search. It syncs your calendar, defends focus blocks and meals from getting bumped by interviews, triages your inbox, and uses Gemini to reason about where a moved task should go instead of relying on a fixed heuristic. Built with a custom ADK-style runtime, AES-256-GCM encryption at rest, Firestore-backed sessions, and a CI/CD pipeline that deploys straight to Cloud Run.
 - 🔍 **GHLens** — an agent that lets you query any GitHub repo in plain English. Built with Streamlit, MCP, and Agno, it pulls live repo and PR data and has an LLM summarize it.
 - ☁️ Learning Google Cloud's Agent Development Kit and Vertex AI pipelines, and building multi-agent pipelines with them
+- 🤝 Building a two-agent negotiation system with a mediator agent that judges deal fairness, on AWS Bedrock, SageMaker, OpenSearch Serverless, S3, and DynamoDB, to get hands-on with AWS's agent stack
 
 ## Background
 
@@ -21,14 +22,13 @@ GenAI Engineer building multi-agent and RAG systems. MS in Computer Science at U
 LLMs · Retrieval Augmented Generation (RAG) · Agentic AI · Multi-agent Systems · Agent Orchestration · Reinforcement Learning · Preference-based RL Fine-tuning · Prompt Engineering · NLP · Model Evaluation · Responsible AI
 
 **AI/ML Tools**
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
 ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
-Also: Google ADK, MCP, Vector DBs
+Also: Google ADK, MCP, Vector DBs (Milvus), AWS Bedrock, AWS SageMaker
 
 **Languages & Infra**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -49,9 +49,3 @@ Also: Google ADK, MCP, Vector DBs
 - 💼 [LinkedIn](https://www.linkedin.com/in/varsha-ravichandran-42b7811b1)
 - ✉️ [varsharavichandran6@gmail.com](mailto:varsharavichandran6@gmail.com)
 - 🌐 [Portfolio](https://varsharavichandran06.github.io/knowaboutme/)
-
-<!--
-Setup note: to make this appear on your profile, create a new repo
-named exactly "varsharavichandran06" (must match your username),
-make it public, check "Add a README file," and paste this in.
--->
